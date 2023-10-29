@@ -1,1 +1,1 @@
-# atividades-python
+# Atividades da disciplina de Desenvolvimento Web (Python)
